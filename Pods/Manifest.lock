@@ -1,0 +1,50 @@
+PODS:
+  - AwesomeMenu (1.0.0)
+  - EAIntroView (2.10.0):
+    - EARestrictedScrollView (~> 1.1.0)
+  - EARestrictedScrollView (1.1.0)
+  - GPUImage (0.1.7)
+  - LLSlideMenu (1.0.5)
+  - MJRefresh (3.1.12)
+  - PathCover (0.1.2)
+  - PhotoBrowser (0.3.2)
+  - PNChart (0.8.9):
+    - UICountingLabel (~> 1.2.0)
+  - pop (1.0.9)
+  - ProgressHUD (2.4)
+  - SDWebImage (4.0.0-beta2):
+    - SDWebImage/Core (= 4.0.0-beta2)
+  - SDWebImage/Core (4.0.0-beta2)
+  - UICountingLabel (1.2.0)
+
+DEPENDENCIES:
+  - AwesomeMenu (~> 1.0.0)
+  - EAIntroView (~> 2.10.0)
+  - GPUImage (~> 0.1.7)
+  - LLSlideMenu
+  - MJRefresh (~> 3.1.12)
+  - PathCover (~> 0.1.2)
+  - PhotoBrowser (~> 0.3.2)
+  - PNChart (~> 0.8.9)
+  - pop (~> 1.0.9)
+  - ProgressHUD (~> 2.4)
+  - SDWebImage (~> 4.0.0-beta2)
+
+SPEC CHECKSUMS:
+  AwesomeMenu: 34bad7f873e4b3cfaa6651fabbb96607d0e8f2b3
+  EAIntroView: 3494b7bbd1212e3a4f7e8d16194a1b00e7b9abb2
+  EARestrictedScrollView: b0c2a3f92fb2610bb44d71c5e4893777c89e45ef
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  LLSlideMenu: ba7e51cf2ab81e7d0869e10a953a5fc305772e93
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  PathCover: 2cea41d7c2a315d72827a35e984ba65b67c1eafc
+  PhotoBrowser: 1e26927b61d5a0be0c87489858662d9199ac6b5e
+  PNChart: 84774d225c2126ded6c93d4dbe6ae98c3a73c2d2
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  ProgressHUD: 4b66b0df0e08519c5c7283a198fd2867a114c95a
+  SDWebImage: e379f33106cf8d6766f970c0ef1c3fb609c94d78
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+
+PODFILE CHECKSUM: 5edcb49cec8515272703884af3866eea7a384ecd
+
+COCOAPODS: 1.2.0.beta.1
